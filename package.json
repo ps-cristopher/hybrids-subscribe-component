@@ -1,0 +1,18 @@
+{
+  "name": "cristopher-ps-retocoderos-hybridsjs",
+  "version": "1.0.0",
+  "description": "This sandbox has been generated!",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@webcomponents/webcomponentsjs": "2.4.0",
+    "hybrids": "https://pkg.csb.dev/hybridsjs/hybrids/commit/245804fd/hybrids"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
